@@ -1,5 +1,5 @@
 # Alice_Network_Analysis
-Network_Analysis of the main character in alice in wonder land
+Network_Analysis of the main character in Alice in Wonderland
 
 ## First heading 
 
